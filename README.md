@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Sidnei Alves 👋
 
-<!--
-**sidneiferreirati/sidneiferreirati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About
+I'm a Web Developer , And I'm studying web development at [RocketSeat](https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+##### Current Stack
+- ⚡️ Main language: `JavaScript`
+- 📡 Backend: `Nodejs`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `javascript`,
+- 🎨 Layout Design: `Figma`
+- 🔧 Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####   Contacts
+- 📧 Email : sidneiferreirati@gmail.com
+- 🧑‍💼Linkedin :    [Sidnei](https://www.linkedin.com/in/sidnei-ferreira-040109a2/)
